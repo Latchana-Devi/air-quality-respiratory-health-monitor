@@ -1,0 +1,23 @@
+# Never commit secrets
+secrets.h
+config.h
+
+# Arduino build files
+build/
+*.o
+*.a
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
