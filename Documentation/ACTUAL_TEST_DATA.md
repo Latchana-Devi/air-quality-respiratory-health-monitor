@@ -171,6 +171,17 @@ The ThingSpeak dashboard with 20 actual data points serves as proof of successfu
 
 ---
 
+## Screenshot Proof
+
+See folder: `TestResults/`
+
+**File 1:** thingspeak_field1_temperature.jpg  
+             thingspeak_field2_gaslevels.jpg
+
+These screenshots prove live data upload to ThingSpeak cloud platform during 14-day testing period.
+
+---
+
 **Test Date Range:** March 29 - April 12, 2026  
 **Status:** ✅ SUCCESSFULLY TESTED AND VALIDATED  
 **Tester:** Latchana Devi M V
